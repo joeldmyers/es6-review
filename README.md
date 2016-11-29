@@ -1,2 +1,2 @@
 # es6-review
-Review of ES6 features
+Reviewing ES6 before jumping into React with Redux
